@@ -1,2 +1,3 @@
-# app-dev
-My first Repository
+1. JUJUTSU KAISEN
+2. NARUTO
+3. DRAGON BALL
